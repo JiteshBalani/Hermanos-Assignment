@@ -14,6 +14,7 @@ Features:
 Features Not Prepared:
   1. Owl Carousel
   2. Responsive Design for Mobile Devices
+  3. Form actions and link to Database.
 
 Hosting: Netlify
 
