@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
         let currentSection = null;
 
         sections.forEach((section) => {
-            const sectionTop = section.offsetTop - 50;
+            const sectionTop = section.offsetTop + 700;
             const sectionBottom = sectionTop + section.offsetHeight;
 
             if (window.scrollY >= sectionTop && window.scrollY < sectionBottom) {
